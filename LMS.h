@@ -8,7 +8,6 @@ public:
 
 private:
   float w[2];
-  // float x[2];
 };
 
 #endif // !LMS
